@@ -1,0 +1,4 @@
+ingredient,on_hand,safety_stock,reorder_point
+ground_beef,50,20,35
+buns,100,40,60
+lettuce,20,10,15

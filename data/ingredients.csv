@@ -1,0 +1,6 @@
+ingredient,description,unit_cost,unit_of_measure,on_hand,lead_time_days
+ground_beef,Ground Beef,4.5,lb,50,3
+buns,Hamburger Buns,2,package,100,2
+lettuce,Lettuce,1.5,head,20,1
+tomato,Tomato,2.25,lb,30,2
+cheese,Cheese,3,lb,25,3

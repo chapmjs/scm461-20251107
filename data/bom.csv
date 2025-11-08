@@ -1,0 +1,7 @@
+menu_item,ingredient,quantity_per_item
+burger,ground_beef,0.25
+burger,buns,1
+burger,lettuce,0.1
+burger,tomato,0.15
+sub,sub_roll,1
+sub,turkey,0.2
